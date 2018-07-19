@@ -1,5 +1,5 @@
 {
-  "name": "smallk-layer-mobile",
+  "name": "smallk-vue-layer-mobile",
   "version": "1.0.0",
   "description": "对vue-layer-mobile进行二次封装改造",
   "main": "index.js",
