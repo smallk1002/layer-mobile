@@ -2,8 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="6f04c68c-85ad-4cc7-8c97-e4e6f69b8385" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/index.js" afterPath="$PROJECT_DIR$/index.js" />
+      <change beforePath="$PROJECT_DIR$/lib/main.js" afterPath="$PROJECT_DIR$/lib/main.js" />
+      <change beforePath="$PROJECT_DIR$/need/iconfont.css" afterPath="$PROJECT_DIR$/need/iconfont.css" />
+      <change beforePath="$PROJECT_DIR$/need/iconfont.js" afterPath="$PROJECT_DIR$/need/iconfont.js" />
+      <change beforePath="$PROJECT_DIR$/need/iconfont.svg" afterPath="$PROJECT_DIR$/need/iconfont.svg" />
+      <change beforePath="$PROJECT_DIR$/need/layer.css" afterPath="$PROJECT_DIR$/need/layer.css" />
+      <change beforePath="$PROJECT_DIR$/package.json" afterPath="" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -16,35 +23,52 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="76">
-                <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-                <folding>
-                  <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
-                  <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
-                  <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
-                  <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
-                  <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
-                  <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
-                </folding>
-              </first_editor>
-              <second_editor />
+    <leaf>
+      <file leaf-file-name="main.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/lib/main.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="704">
+              <caret line="209" column="24" lean-forward="false" selection-start-line="209" selection-start-column="19" selection-end-line="209" selection-end-column="24" />
+              <folding>
+                <marker date="1531980352543" expanded="true" signature="127:1767" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="238:1760" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="277:1751" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="360:519" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="400:506" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="636:820" ph="..." />
+                <marker date="1531980352543" expanded="false" signature="700:740" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="895:1249" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="1097:1236" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="1345:1740" ph="..." />
+                <marker date="1531980352543" expanded="true" signature="1458:1727" ph="..." />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.js" pinned="false" current-in-tab="false">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/README.md">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+              <folding>
+                <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+                <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+                <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+                <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+                <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+                <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="343">
-              <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
-              <folding>
-                <marker date="1531970218213" expanded="true" signature="26007:26047" ph="..." />
-              </folding>
+            <state relative-caret-position="0">
+              <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -58,13 +82,13 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/lib/main.js" />
+        <option value="$PROJECT_DIR$/index.js" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
-  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER">
-    <package-json value="$PROJECT_DIR$/package.json" />
-  </component>
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -96,7 +120,12 @@
           <expand>
             <path>
               <item name="layer-mobile" type="b2602c69:ProjectViewProjectNode" />
-              <item name="layer-mobile" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="layer-mobile" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="layer-mobile" type="b2602c69:ProjectViewProjectNode" />
+              <item name="layer-mobile" type="462c0819:PsiDirectoryNode" />
+              <item name="lib" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -109,6 +138,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -136,36 +166,47 @@
       <option name="presentableId" value="Default" />
       <updated>1531977363552</updated>
       <workItem from="1531977364904" duration="50000" />
-      <workItem from="1531977427649" duration="436000" />
+      <workItem from="1531977427649" duration="1871000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="486000" />
+    <option name="totallyTimeSpent" value="2048000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14978679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14805058" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="npm" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.14978679" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
-      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -179,51 +220,23 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="0">
-            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-            <folding>
-              <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
-              <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
-              <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
-              <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
-              <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
-              <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
     <entry file="file://$PROJECT_DIR$/index.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="343">
           <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
-          <folding>
-            <marker date="1531970218213" expanded="true" signature="26007:26047" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="76">
-            <caret line="4" column="1" lean-forward="false" selection-start-line="4" selection-start-column="1" selection-end-line="4" selection-end-column="1" />
-            <folding>
-              <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
-              <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
-              <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
-              <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
-              <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
-              <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
-            </folding>
-          </first_editor>
-          <second_editor />
-        </state>
-      </provider>
       <provider editor-type-id="text-editor">
         <state relative-caret-position="38">
           <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
@@ -235,6 +248,424 @@
             <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
             <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14858">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="14858">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="343">
+          <caret line="782" column="20" lean-forward="false" selection-start-line="782" selection-start-column="10" selection-end-line="782" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="37" lean-forward="true" selection-start-line="2" selection-start-column="37" selection-end-line="2" selection-end-column="37" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md" />
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="0" lean-forward="false" selection-start-line="4" selection-start-column="0" selection-end-line="21" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/need/layer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/lib/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="704">
+          <caret line="209" column="24" lean-forward="false" selection-start-line="209" selection-start-column="19" selection-end-line="209" selection-end-column="24" />
+          <folding>
+            <marker date="1531980352543" expanded="true" signature="127:1767" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="238:1760" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="277:1751" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="360:519" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="400:506" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="636:820" ph="..." />
+            <marker date="1531980352543" expanded="false" signature="700:740" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="895:1249" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="1097:1236" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="1345:1740" ph="..." />
+            <marker date="1531980352543" expanded="true" signature="1458:1727" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/package.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="26" lean-forward="false" selection-start-line="1" selection-start-column="26" selection-end-line="1" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="8" lean-forward="true" selection-start-line="1" selection-start-column="8" selection-end-line="1" selection-end-column="8" />
+          <folding>
+            <marker date="1531977863856" expanded="true" signature="113:181" ph="..." />
+            <marker date="1531977863856" expanded="true" signature="254:390" ph="{&quot;icon&quot;: 'icon-check'...}" />
+            <marker date="1531977863856" expanded="true" signature="507:725" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="759:870" ph="{...}" />
+            <marker date="1531977863856" expanded="true" signature="925:984" ph="{&quot;content&quot;: '这是内容'...}" />
+            <marker date="1531977863856" expanded="true" signature="1022:1092" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="31" lean-forward="true" selection-start-line="0" selection-start-column="31" selection-end-line="0" selection-end-column="31" />
+          <folding />
         </state>
       </provider>
     </entry>
